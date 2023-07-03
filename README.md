@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Windokk
-- 👀 I’m interested in video-games, coding, story creation.
-- 🌱 I’m currently learning Minecraft Forge Modding !
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
-<!---
-Windokk/Windokk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey, I'm Windokk, a french game developper 🇫🇷 !
+
+I love video game, computer science and art in general. I mostly code in c++ and python but i also do some MC mods in java (Forge).
+
+I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also tried unity and pygame.
+
+## Projects i'm working onto right now ⚙️
+
+- Equinox 🏝️ : A first person survival game where you're stranded on an island and you have to survive the rough nature.
+- Demo MVS 🚶 : A demo of some advanced gameplay mechanics such as complex locomotion, ai, items and inventory, and a light rpg system
+- Cold Vendetta ❄️ : My dream game, where you play as a bione (a human created and programmed in a lab) which has to reconquer earth after a new ice age killed almost everything and everyone.
+
+## My stats
+
+![Windokk's GitHub stats](https://github-readme-stats.vercel.app/api?username=windokk&theme=algolia&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windokk&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
