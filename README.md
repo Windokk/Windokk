@@ -13,5 +13,4 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 
 ## My stats
 
-![Windokk's GitHub stats](https://github-readme-stats.vercel.app/api?username=windokk&theme=algolia&show_icons=true)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windokk&layout=donut-vertical&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Windokk's GitHub stats](https://github-readme-stats.vercel.app/api?username=windokk&theme=algolia&show_icons=true)    &  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windokk&layout=donut-vertical&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
