@@ -8,8 +8,7 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 ## Projects i'm working onto right now 👨‍💻
 
 - Spark Engine ⚙️ : A 3D game engine coded in C++ with OpenGL.
-- Demo VGM 🚶 : A demo of some advanced gameplay mechanics such as complex locomotion, ai, items and inventory, and a light rpg system
-- Equinox 🏝️ : A first person survival game where you're stranded on an island and you have to survive the rough nature.
+- Magnet Launcher ⛏️ : A Minecraft Java launcher
 
 ## My stats
 
