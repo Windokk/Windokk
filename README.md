@@ -1,5 +1,5 @@
 
-# Hey, I'm Windokk, a beginner game developper !
+# Hey, I'm Windokk, a beginner game designer/developper !
 
 I love video games, computer science and art. I mostly code in c++ and python but i also did some MC mods in java (Forge).
 
