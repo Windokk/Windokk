@@ -7,7 +7,7 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 
 ## Projects i'm working onto right now 👨‍💻
 
-- Organ-16 💾 : A simple 16 bits CPU architecture
+- Organ-16 💾 : A simple 16 bit CPU architecture
 - Fenix 🐦 : A private OS kernel (x86_64) (using GNU Grub 2)
 - Magnet Engine 🧲 : A 3D/2D game engine written in C++ using Vulkan.
 - Magnet Launcher ⛏️ : A Minecraft Java launcher
