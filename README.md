@@ -1,9 +1,9 @@
 
 # Hey, I'm Windokk, a beginner game designer/developper !
 
-I love video games, computer science and art. I mostly code in c++, c and python but i also did some MC mods in java (Forge).
+I love video games, computer science and art. I mostly code in c++, c and python but i also did some Minecraft mods in java (Forge).
 
-I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also tried Unity (C#) and pygame.
+I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also use Unity and pygame.
 
 ## Projects i'm working onto right now 👨‍💻
 
