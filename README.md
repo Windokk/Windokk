@@ -8,7 +8,7 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 ## Projects i'm working onto right now 👨‍💻
 
 - Organ-16 💾 : A simple 16 bit CPU architecture
-- Epoch 🕰️ : My dream game engine
+- Pulse 🫀 : My dream game engine
 - https://windokk.dev 🌐 : My personal portfolio website
 
 ## Projects I worked on in the past
