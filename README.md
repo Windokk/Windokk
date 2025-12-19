@@ -21,7 +21,3 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 
 - An IDE
 - Fenix 🐦 : My personal OS (x86_64) (using GNU Grub 2)
-
-## My stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windokk&layout=donut&theme=algolia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Windokk Stats](https://github-readme-stats.vercel.app/api?username=windokk&theme=algolia)
