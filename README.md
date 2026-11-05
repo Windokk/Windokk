@@ -20,4 +20,4 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 ## Projects I will work/rework on
 
 - An IDE
-- Fenix 🐦 : My personal OS (x86_64) (using GNU Grub 2)
+- Fenix 🐦 : My custom kernel (x86_64) (using GNU Grub 2)
