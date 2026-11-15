@@ -7,8 +7,8 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 
 ## Projects i'm working onto right now 👨‍💻
 
-- Organ-16 💾 : A simple 16 bit CPU architecture
-- Shard 💎 : My dream game engine
+- [Organ-16 💾](https://github.com/Windokk/Organ-16) : A 16 bit CISC CPU project (architecture, assembly/C compiler, emulator)
+- [Shard](https://github.com/Windokk/Shard) 💎 : My dream game engine
 - https://windokk.dev 🌐 : My personal portfolio website
 
 ## Projects I worked on in the past
@@ -20,4 +20,4 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 ## Projects I will work/rework on
 
 - An IDE
-- Fenix 🐦 : My custom kernel (x86_64) (using GNU Grub 2)
+- [Fenix 🦅](https://github.com/Windokk/Fenix) : My custom kernel (x86_64) (using GNU Grub 2)
