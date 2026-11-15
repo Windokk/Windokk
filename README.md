@@ -1,7 +1,7 @@
 
 # Hey, I'm Windokk, a junior developer passionate about game development and low-level programming
 
-I love video games, electronics, computer science and art. I mostly code in c++, c and python but i also did some Minecraft mods in java (Forge).
+I love computer science, video games, electronics and art (cinema, digital arts). I mostly code in c++, c and python but i also did some Minecraft mods in java (Forge).
 
 I do a lot of projects in Unreal Engine 4 & 5 (in c++ and blueprints) but i also use Unity and pygame.
 
