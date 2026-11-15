@@ -15,7 +15,7 @@ I do a lot of projects in Unreal Engine 4 & 5 (in c++ or blueprints) but i also 
 
 - Spark Engine (my first "game engine")
 - Magnet Engine 🧲 : A 3D/2D game engine written in C++ using Vulkan (discontinued)
-- Magnet Launcher ⛏️ : A Minecraft Java launcher (functionnal but full of bugs + missing features)
+- Magnet Launcher ⛏️ : A Minecraft Java launcher (functionnal but missing features)
 
 ## Projects I will work/rework on
 
